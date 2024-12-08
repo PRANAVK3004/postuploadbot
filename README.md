@@ -1,7 +1,6 @@
 # postuploadbot
 
 
-# Video Upload Bot
 
 ## Overview
 
