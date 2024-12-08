@@ -1,0 +1,15 @@
+# video-bot/requirements.txt
+# aiohttp==3.9.3
+# aiofiles==23.2.1
+# tqdm==4.66.2
+# instaloader==4.9.6
+# yt-dlp==2024.3.10
+# watchdog==3.0.0
+# requests==2.31.0
+aiohttp==3.9.3
+aiofiles==23.2.1
+tqdm==4.66.2
+instaloader==4.9.6
+yt-dlp==2024.3.10
+watchdog==3.0.0
+requests==2.31.0
